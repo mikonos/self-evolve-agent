@@ -1,5 +1,5 @@
 ---
-name: self-evolve
+name: self-evolve-agent
 description: |
   Agent 自主进化引擎——让 AI agent 像生物进化一样持续变强。
   核心循环：感知差距 → 搜索方案 → 设计实验 → 跑实验 → 选赢家 → 固化 → 下一轮。
